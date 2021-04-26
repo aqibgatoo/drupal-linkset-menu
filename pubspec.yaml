@@ -2,7 +2,7 @@ name: drupal_linkset_menu
 description: Flutter package to generate drupal menu from application/linkset+json mimetype.
 version: 1.0.0
 author: Aqib Gatoo
-homepage:
+homepage: https://github.com/aqibgatoo/drupal-linkset-menu
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
